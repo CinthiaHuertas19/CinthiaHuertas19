@@ -1,6 +1,5 @@
-### Hi there 👋
-**CinthiaHuertas19/CinthiaHuertas19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-"Hello, I am Cinthia Huertas, a computer engineering student at the University of Buenos Aires. Currently, I am taking courses that help to complement."
+### Hi there 👋 "Hello, I am Cinthia Huertas
+"I´m a computer engineering student at the University of Buenos Aires. Currently, I am taking courses that help to complement."
 - 🧠 I'm currently learning JavaScript, Java full stack
 - 🤔 I’m looking for help with Python
 - 😄 Pronouns: Cin 
