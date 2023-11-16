@@ -1,6 +1,6 @@
 ### Hola a todos 👋 "Soy cinthia Huertas"
 "Soy estudiante de ingeniería informática en la Universidad de Buenos Aires. Actualmente estoy cursando y sumando lenguajes de programación que ayudan a complementar."
-- 🧠 Actualmente estoy aprendiendo JavaScript, Java full stack.
+- 🧠 Actualmente estoy aprendiendo JavaScript, Java full stack, Diseño UX/UI.
 - 🤔 Estoy buscando ayuda con Python.
 - 😄 Sobrenombe: Cin 
 ## 🛠 Skills
