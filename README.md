@@ -1,8 +1,8 @@
-### Hi there 👋 "Hello, I am Cinthia Huertas
-"I´m a computer engineering student at the University of Buenos Aires. Currently, I am taking courses that help to complement."
-- 🧠 I'm currently learning JavaScript, Java full stack
-- 🤔 I’m looking for help with Python
-- 😄 Pronouns: Cin 
+### Hola a todos 👋 "Soy cinthia Huertas#
+"Soy estudiante de ingeniería informática en la Universidad de Buenos Aires. Actualmente estoy cursando y sumando lenguajes de programación que ayudan a complementar."
+- 🧠 Actualmente estoy aprendiendo JavaScript, Java full stack.
+- 🤔 Estoy buscando ayuda con Python.
+- 😄 Sobrenombe: Cin 
 ## 🛠 Skills
 Javascript, HTML, CSS, DISEÑO UX/UI
 ## 🔗 Links
