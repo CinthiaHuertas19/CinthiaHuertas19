@@ -2,7 +2,7 @@
 "Soy estudiante de ingeniería informática en la Universidad de Buenos Aires. Actualmente estoy cursando y sumando lenguajes de programación que ayudan a complementar."
 - 🧠 Actualmente estoy aprendiendo JavaScript, Python full stack, Diseño UX/UI.
 - 🤔 Estoy buscando ayuda con Python.
-- 😄 Sobrenombe: Cin 
+- 😄 Sobrenombe: Vale
 ## 🛠 Skills
 Javascript, HTML, CSS, DISEÑO UX/UI
 ## 🔗 Links
